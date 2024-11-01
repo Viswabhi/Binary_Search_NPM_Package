@@ -18,6 +18,8 @@ Import the binarySearch function and use it to find the index of an element in a
 javascript
 Copy code
 const { binarySearch } = require('binary-search-package-by-avishek');
+![image](https://github.com/user-attachments/assets/e834f531-e253-4b44-8ff7-dd9a07ddee77)
+
 
 // Example array
 const sortedArray = [1, 3, 5, 7, 9, 11];
