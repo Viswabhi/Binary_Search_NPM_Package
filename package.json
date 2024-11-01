@@ -1,0 +1,12 @@
+{
+  "name": "binary-search-package-by-avishek",
+  "version": "1.0.0",
+  "description": "A simple NPM package for performing binary search in JavaScript.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": ["binary search", "algorithm", "npm", "nodejs"],
+  "author": "Avishek Biswakarma",
+  "license": "MIT"
+}
